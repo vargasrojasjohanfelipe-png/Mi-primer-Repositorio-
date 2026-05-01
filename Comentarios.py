@@ -3,7 +3,7 @@
 de varias lineas'''
 
 #Definiendo variables
-nombre = "Johan"
+nombre = "Johan Felipe Vargas Rojas "
 edad = 14 
 estado = True
 altura = 1.65
