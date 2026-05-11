@@ -8,7 +8,7 @@ es_estudiante = True
 
 # 2. Redes_Sociales = (tuple)
 
-Redes_sociales = ("Johanzu-11", "johan_cap29")
+Redes_sociales = ("cuenta de Github:" "Johanzu-11", " cuenta de instagram:" "johan_cap29")
 
 # 3. Playlist de cantantes favoritos = (list en un dict)
 
